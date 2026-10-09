@@ -4,7 +4,7 @@ import tarfile
 import zipfile
 
 
-def extract_archive_securely(archive_path, destination_directory):
+def extract_archive_securely(archive_path, destination_directory): 
     """
     Securely extract a user-provided ZIP or TAR archive.
 
